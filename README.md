@@ -17,7 +17,15 @@ A flexible, TypeScript-based popup plugin that supports click-triggered and auto
 
 ## 🚀 Getting Started
 
-### 1. Include the HTML
+### 1. Import
+
+You can import the class directly into your TypeScript or JavaScript project.
+
+```
+import { Popup } from './PluginPopup';
+```
+
+### 2. Include the HTML
 
 Add the trigger and optional popup content template to your HTML:
 
@@ -40,7 +48,7 @@ Add the trigger and optional popup content template to your HTML:
 
 ---
 
-### 2. Initialize the Plugin
+### 3. Initialize the Plugin
 
 #### Click-Triggered Popup with Generated Content
 
