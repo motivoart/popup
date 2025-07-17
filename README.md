@@ -1,7 +1,7 @@
 
 # Popup Plugin
 
-A flexible, TypeScript-based popup plugin that supports click-triggered and auto-open modals. It allows for both generated content and custom HTML templates.
+A flexible, TypeScript-based **Popup** plugin that supports click-triggered and auto-open modals. It allows for both generated content and custom HTML templates.
 
 ---
 
